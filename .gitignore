@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 week *.class
 .vscode/
 .settings/
@@ -5,3 +6,27 @@ week *.class
 .classpath
 bin/
 out/
+=======
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Build outputs
+target/
+Outputss/
+outputss/
+build/
+out/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+>>>>>>> a5538af (Initial import of week4 project)
